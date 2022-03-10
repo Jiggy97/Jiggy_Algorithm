@@ -1,3 +1,4 @@
-Number = int(input())
-Result = Number - 543
-print(Result)
+a = int(input())
+b = 543
+print(a - b)
+
